@@ -1,2 +1,2 @@
-# Building-Authentication-with-flask
-A Sample Authentication with flask that work in a different forms
+# Building login and reqister and Authentication-with-flask
+A Sample Login and Registering Users with Authentication
